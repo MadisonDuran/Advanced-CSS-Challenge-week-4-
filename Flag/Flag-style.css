@@ -1,0 +1,34 @@
+.americanflag {
+    border-collapse: collapse;
+    margin: 160px auto;
+    width: 1000px;
+}
+
+.body {
+    background-color: rgb(235, 187, 125);
+}
+
+.stripewhite {
+    background-color: white;
+}
+
+.stripered {
+    background-color: red;
+}
+
+
+.blue {
+    background-image: url('stars.png');
+    background-size: 350px 260px;
+    padding-left: 250px;
+    background-repeat: no-repeat;
+    background-position: left top;
+}
+
+.footer {
+    text-align: center;
+    font-size: 80px;
+    color: white;
+
+}
+
