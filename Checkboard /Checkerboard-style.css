@@ -1,0 +1,30 @@
+.container {
+    margin: 60px auto;
+    width: fit-content;
+}
+
+.checkerboard {
+    border-collapse: collapse;;
+}
+
+.checkerboard td {
+    padding: 0;
+}
+
+.checkerboard div {
+    width: 100px;
+    height: 100px;
+}
+
+.black {
+    background-color: black;
+}
+
+.white {
+    background-color: white;
+}
+
+body { 
+    background-color: rgb(0, 242, 255);
+    background-color: rgb(0, 242, 255);
+}
